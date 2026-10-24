@@ -1,0 +1,14 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "editor-browser",
+            "request": "launch",
+            "name": "Open index.html",
+            "url": "file:///c%3A/Users/%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9/Desktop/Web/Lab4/932403.Vilisov.Dmitrii.lab4/index.html"
+        }
+    ]
+}
